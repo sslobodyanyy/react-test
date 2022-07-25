@@ -1,0 +1,8 @@
+.add_user {
+    width: 100px;
+}
+.add_user a {
+    text-decoration: none;
+    font-size: 14px;
+    color: bisque;
+}
